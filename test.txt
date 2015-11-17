@@ -8,6 +8,11 @@ sdsd
 sd
 sfeij 
 this is a text
+<<<<<<< HEAD
 this is a bug
 test
 so nothing
+
+死读书
+各分区
+二哥
