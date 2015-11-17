@@ -8,3 +8,6 @@ sdsd
 sd
 sfeij 
 this is a text
+this is a bug
+test
+so nothing
