@@ -7,8 +7,7 @@ dsdjlk s dfwefi
 sdsd
 sd
 sfeij 
-this is a text
-<<<<<<< HEAD
+
 this is a bug
 test
 so nothing
@@ -17,4 +16,7 @@ so nothing
 各分区
 二哥
 dssef
-r
+rhis is a texthah
+
+sefelkmwle
+hahaha
