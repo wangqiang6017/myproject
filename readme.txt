@@ -1,15 +1,8 @@
 this is a test 
 射日弓
 
-<<<<<<< Updated upstream
-二哥哥
+这一次删除了些东西
 
-sd
+也修改了些东西
 
-二维码
-=======
-二哥哥
-
-en ,hao de 
-ni shuo 是吧
->>>>>>> Stashed changes
+just do it!
